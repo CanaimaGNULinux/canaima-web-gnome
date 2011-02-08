@@ -1,3 +1,9 @@
+canaima-web (3.0+3) unstable; urgency=low
+
+  * [8250484] Removiendo algunas dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 08 Feb 2011 02:07:49 -0430
+
 canaima-web (3.0+2) unstable; urgency=low
 
   * [c41af77] Corrigiendo dependencias
