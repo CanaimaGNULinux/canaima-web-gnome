@@ -1,3 +1,9 @@
+canaima-web (3.0+5) unstable; urgency=low
+
+  * [c3b3bd0] Agregando dependencia a deluge, gestor de torrents
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Thu, 10 Feb 2011 00:34:19 -0430
+
 canaima-web (3.0+4) unstable; urgency=low
 
   * [5b587ac] Quitando dependencias
