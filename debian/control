@@ -11,6 +11,7 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web/trees/master
 
 Package: canaima-web
 Architecture: all
-Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, emesene, turpial, network-manager, network-manager-gnome, deluge, ${shlibs:Depends}, ${misc:Depends}
+Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, emesene, turpial, network-manager, network-manager-gnome, deluge, flashplugin-nonfree, ${shlibs:Depends}, ${misc:Depends}
+Conflicts: epiphany-browser, epiphany-browser-data
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
