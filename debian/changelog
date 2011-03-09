@@ -1,3 +1,9 @@
+canaima-web (3.0+11) unstable; urgency=low
+
+  * [3bf084b] Reduciendo dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 09 Mar 2011 19:28:25 -0430
+
 canaima-web (3.0+10) unstable; urgency=low
 
   * [713839b] Modificando dependencias
