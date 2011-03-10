@@ -1,3 +1,9 @@
+canaima-web (3.0+12) unstable; urgency=low
+
+  * [284d315] Agregando dependencia a update-manager-gnome
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 09 Mar 2011 21:07:37 -0430
+
 canaima-web (3.0+11) unstable; urgency=low
 
   * [3bf084b] Reduciendo dependencias
