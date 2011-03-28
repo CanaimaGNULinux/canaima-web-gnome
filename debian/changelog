@@ -1,3 +1,11 @@
+canaima-web (3.0+14) unstable; urgency=low
+
+  * [1f0733d] Quitando dependencias network-manager-gnome, update-
+    manager-gnome, update-notifier y moviendo a canaima-escritorio-
+    gnome.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Sun, 27 Mar 2011 23:19:46 -0430
+
 canaima-web (3.0+13) unstable; urgency=low
 
   * [c77e174] Agregando deoendencia a canaima-escritorio-gnome
