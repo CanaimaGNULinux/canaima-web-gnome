@@ -1,3 +1,13 @@
+canaima-web (3.0+15) unstable; urgency=low
+
+  [ Francisco Vasquez Guerrero ]
+  * [675bd90] nueva dependencia para imcorporar plugins que permiten
+    observar Tv en vivo desde el navergador  web Cunaguaro
+
+  [ Francisco Vasquez ]
+
+ -- Francisco Vasquez <fvasquez@fvasquez.cnti.gob.ve>  Tue, 05 Apr 2011 17:24:12 -0430
+
 canaima-web (3.0+14) unstable; urgency=low
 
   * [1f0733d] Quitando dependencias network-manager-gnome, update-
