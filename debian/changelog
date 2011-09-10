@@ -7,6 +7,7 @@ canaima-web-gnome (3.0+16) unstable; urgency=low
   * [3193ec3] Actualizar la lista de los Uploaders actuales dentro del archivo control y actualizar el archivo THANKS para reconocer los créditos de los aportes al paquete.
   * [189d2fb] Agregado los anteriores mantenedores y uploaders de este paquete en el archivo THANKS.
   * [c7ae33b] Arreglado la dirección de correo de Sasha Solano.
+  * [737a4fb] Arreglado el nombre completo y la dirección de correo de William Cabrera.
     
 canaima-web (3.0+15) unstable; urgency=low
 
