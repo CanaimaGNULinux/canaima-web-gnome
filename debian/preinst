@@ -1,7 +1,7 @@
 #!/bin/bash -e
 #
 # ==============================================================================
-# PAQUETE: canaima-web
+# PAQUETE: canaima-web-gnome
 # ARCHIVO: preinst
 # DESCRIPCIÓN: Configura el sistema antes de la instalación del paquete.
 # COPYRIGHT:
@@ -9,13 +9,14 @@
 #  (C) 2010 Diego Alberto Aguilera Zambrano <daguilera85@gmail.com>
 #  (C) 2010 Carlos Alejandro Guerrero Mora <guerrerocarlos@gmail.com>
 #  (C) 2010 Francisco Javier Vásquez Guerrero <franjvasquezg@gmail.com>
+#  (C) 2011 Leonardo J. Caballero G. <leonardocaballero@gmail.com>
 # LICENCIA: GPL3
 # ==============================================================================
 #
 # Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los
 # términos de la Licencia Pública General de GNU (versión 3).
 
-PKG="canaima-web"
+PKG="canaima-web-gnome"
 
 case ${1} in
 
