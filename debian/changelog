@@ -3,7 +3,11 @@ canaima-web-gnome (3.0+16) unstable; urgency=low
   [ Leonardo J. Caballero G. ]
   * [0ea8af30] Cerrar la incidencia #359 registrada en el sistema de proyecto canaima.
   * [79a6e89] Cerrar la incidencia #360 registrada en el sistema de proyecto canaima.
-
+  * [d7952b8] Renombrar el paqute canaima-web a canaima-web-gnome dentro del archivo control.
+  * [3193ec3] Actualizar la lista de los Uploaders actuales dentro del archivo control y actualizar el archivo THANKS para reconocer los créditos de los aportes al paquete.
+  * [189d2fb] Agregado los anteriores mantenedores y uploaders de este paquete en el archivo THANKS.
+  * [c7ae33b] Arreglado la dirección de correo de Sasha Solano.
+    
 canaima-web (3.0+15) unstable; urgency=low
 
   [ Francisco Vasquez Guerrero ]
