@@ -1,4 +1,4 @@
-Source: canaima-web
+Source: canaima-web-gnome
 Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
@@ -6,10 +6,10 @@ Uploaders: José Miguel Parrella Romero <jparrella@onuva.com>, Carlos David Marr
 Build-Depends: debhelper (>= 7.0.50~), cdbs
 Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
-Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web.git
-Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web/trees/master
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web-gnome.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/master
 
-Package: canaima-web
+Package: canaima-web-gnome
 Architecture: all
 Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, turpial, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: epiphany-browser, epiphany-browser-data
