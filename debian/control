@@ -3,7 +3,7 @@ Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
 Uploaders: Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~), cdbs
+Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web-gnome.git
@@ -11,7 +11,7 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/mast
 
 Package: canaima-web-gnome
 Architecture: all
-Depends: cunaguaro, guacharo, turpial, ${shlibs:Depends}, ${misc:Depends}
+Depends: cunaguaro, guacharo, turpial, totem-mozilla, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: epiphany-browser, epiphany-browser-data
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
