@@ -6,8 +6,8 @@ Uploaders: Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), cdbs
 Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
-Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web.git
-Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web/trees/master
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web-gnome.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/master
 
 Package: canaima-web-gnome
 Architecture: all
