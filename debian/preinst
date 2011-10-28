@@ -17,7 +17,6 @@ PKG="canaima-web-gnome"
 case ${1} in
 
 	install|upgrade)
-
 	;;
 
 	abort-upgrade)
