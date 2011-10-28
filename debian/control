@@ -13,5 +13,6 @@ Package: canaima-web-gnome
 Architecture: all
 Depends: cunaguaro, guacharo, turpial, totem-mozilla, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: epiphany-browser, epiphany-browser-data
+Replaces: canaima-web (>= 3.0)
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
