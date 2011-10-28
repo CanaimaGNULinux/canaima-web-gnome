@@ -1,4 +1,4 @@
-Source: canaima-web
+Source: canaima-web-gnome
 Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
@@ -9,7 +9,7 @@ Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web/trees/master
 
-Package: canaima-web
+Package: canaima-web-gnome
 Architecture: all
 Depends: cunaguaro, guacharo, turpial, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: epiphany-browser, epiphany-browser-data

@@ -1,4 +1,4 @@
-canaima-web (3.0+14) unstable; urgency=low
+canaima-web-gnome (3.1-1) stable; urgency=low
 
   * [1f0733d] Quitando dependencias network-manager-gnome, update-
     manager-gnome, update-notifier y moviendo a canaima-escritorio-
