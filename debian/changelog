@@ -1,3 +1,9 @@
+canaima-web-gnome (3.1-4) stable; urgency=low
+
+  * [8199510] Agregando dependencia a totem-mozilla
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 28 Oct 2011 11:37:20 -0430
+
 canaima-web-gnome (3.1-3) stable; urgency=low
 
   * [cdc697a] Corrigiendo errores de lintian.
