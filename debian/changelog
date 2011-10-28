@@ -1,3 +1,10 @@
+canaima-web-gnome (3.1-5) stable; urgency=low
+
+  * [e3addc1] Agregando Replaces a canaima-web para mantener
+    compatibilidad hacia atrás con Canaima Popular 3.0.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 28 Oct 2011 14:03:22 -0430
+
 canaima-web-gnome (3.1-4) stable; urgency=low
 
   * [8199510] Agregando dependencia a totem-mozilla
