@@ -4,7 +4,7 @@ canaima-web-gnome (3.1-1) stable; urgency=low
     manager-gnome, update-notifier y moviendo a canaima-escritorio-
     gnome.
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Sun, 27 Mar 2011 23:19:46 -0430
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Thu, 27 Oct 2011 20:33:46 -0430
 
 canaima-web (3.0+13) unstable; urgency=low
 
