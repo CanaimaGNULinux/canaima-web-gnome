@@ -1,3 +1,39 @@
+canaima-web-gnome (3.1-2) unstable; urgency=low
+
+  [ Francisco Vasquez Guerrero ]
+  * [675bd90] nueva dependencia para imcorporar plugins que permiten
+    observar Tv en vivo desde el navergador  web Cunaguaro
+  * [5219dc8] NUEVA versión con la dependencia totem-mozilla
+
+  [ Leonardo J .Caballero G ]
+  * [0ea8af3] Remover el paquete la dependencia del "totem-mozilla" en
+    base a las especificaciones definida en la cayapa técnica de Mérida
+    2011 de este metapaquete
+  * [f80585d] Agregar archivo de configuración ignore git
+  * [79a6e89] Cambiar el nombre del metapaquete "canaima-web" a
+    "canaima-web-gnome" y actualizar la secciones de copyright
+  * [d1fee97] Actualizar changelog con los cambios 3.0+16
+  * [d7952b8] Renombrar el paqute canaima-web a canaima-web-gnome dentro
+    del archivo control
+  * [3193ec3] Actualizar la lista de los Uploaders actuales dentro del
+    archivo control y actualizar el archivo THANKS para reconocer los
+    créditos de los aportes al paquete
+  * [189d2fb] Agregado los anteriores mantenedores y uploaders de este
+    paquete
+  * [c7ae33b] Arreglado la dirección de correo de Sasha Solano
+  * [be04879] Actualizar los cambios al archivo debian/changelog en la
+    version 3.0+16
+  * [737a4fb] Arreglado el nombre completo y la dirección de correo de
+    William Cabrera
+  * [ec8d7a2] Actualizar el cambio al archivo debian/changelog en la
+    version 3.0+16
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [445a5b3] Cambiando el nombre del paquete a canaima-web-gnome.
+    Cambiando versión a 3.1-1.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Thu, 27 Oct 2011 20:48:17 -0430
+
 canaima-web-gnome (3.1-1) unstable; urgency=low
 
   * Subiendo la versión del paquete para Canaima 3.1
