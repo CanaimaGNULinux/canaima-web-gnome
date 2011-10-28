@@ -1,3 +1,9 @@
+canaima-web-gnome (3.1-6) stable; urgency=low
+
+  * [77c5747] Agregando Conflicts con canaima-web
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 28 Oct 2011 16:50:56 -0430
+
 canaima-web-gnome (3.1-5) stable; urgency=low
 
   * [e3addc1] Agregando Replaces a canaima-web para mantener
