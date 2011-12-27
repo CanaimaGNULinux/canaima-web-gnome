@@ -1,8 +1,10 @@
 canaima-web-gnome (3.1-7) stable; urgency=low
 
   * [3f22601] Removiendo scripts del mantenedor innecesarios
+  * [f6fc15e] Modificando el uploader
+  * [6f3b1fe] modificando el uploader del archivo control
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 15:18:01 -0430
+ -- Randy Ortega <ortega571@gmail.com>  Tue, 29 Nov 2011 17:21:35 -0430
 
 canaima-web-gnome (3.1-6) stable; urgency=low
 
