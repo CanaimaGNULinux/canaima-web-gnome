@@ -12,7 +12,8 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/mast
 Package: canaima-web-gnome
 Architecture: all
 Depends: cunaguaro, guacharo, turpial, totem-mozilla, ${shlibs:Depends}, ${misc:Depends}
-Conflicts: epiphany-browser, epiphany-browser-data, canaima-web (>= 3.0)
-Replaces: canaima-web (>= 3.0)
+Conflicts: evolution, evolution-common, epiphany-browser, epiphany-browser-data, canaima-web
+Replaces: canaima-web
+Provides: canaima-web
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
