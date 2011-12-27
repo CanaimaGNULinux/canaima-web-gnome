@@ -1,3 +1,9 @@
+canaima-web-gnome (3.1-7) stable; urgency=low
+
+  * [3f22601] Removiendo scripts del mantenedor innecesarios
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 15:18:01 -0430
+
 canaima-web-gnome (3.1-6) stable; urgency=low
 
   * [77c5747] Agregando Conflicts con canaima-web
