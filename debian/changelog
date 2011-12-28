@@ -1,3 +1,9 @@
+canaima-web-gnome (3.1-10) stable; urgency=low
+
+  * [aebbd6f] Removiendo archivos innecesarios
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 20:21:06 -0430
+
 canaima-web-gnome (3.1-9) stable; urgency=low
 
   * [af55c77] Agregando dependencias a paquetes de idioma
