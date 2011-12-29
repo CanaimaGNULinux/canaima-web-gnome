@@ -1,3 +1,10 @@
+canaima-web-gnome (3.1-12) stable; urgency=low
+
+  * [5cc005c] Agregando paquetes transicionales para facilitar la
+    desinstalación de evolution y epiphany-browser
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 28 Dec 2011 23:49:28 -0430
+
 canaima-web-gnome (3.1-11) stable; urgency=low
 
   * [333e986] Agregando paquetes transicionales para facilitar la
