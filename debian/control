@@ -12,9 +12,9 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/mast
 Package: canaima-web-gnome
 Architecture: all
 Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, turpial, totem-mozilla, ${shlibs:Depends}, ${misc:Depends}
-Conflicts: evolution, evolution-common, epiphany-browser, epiphany-browser-data, canaima-web (<< 3.1)
-Replaces: canaima-web (<< 3.1)
-Provides: canaima-web
+Conflicts: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
+Replaces: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
+Provides: evolution, evolution-common, epiphany-browser, epiphany-browser-data, canaima-web
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
 
@@ -24,5 +24,37 @@ Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
 Description: Paquete transicional canaima-web -> canaima-web-gnome
  Esto es un paquete transicional para que los usuarios puedan
  actualizar de canaima-web a canaima-web-gnome sin muchos
+ problemas. Puede ser removido.
+
+Package: evolution
+Architecture: all
+Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete transicional evolution -> canaima-web-gnome
+ Esto es un paquete transicional para que los usuarios puedan
+ actualizar de evolution a canaima-web-gnome sin muchos
+ problemas. Puede ser removido.
+
+Package: evolution-common
+Architecture: all
+Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete transicional evolution-common -> canaima-web-gnome
+ Esto es un paquete transicional para que los usuarios puedan
+ actualizar de evolution-common a canaima-web-gnome sin muchos
+ problemas. Puede ser removido.
+
+Package: epiphany-browser
+Architecture: all
+Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete transicional epiphany-browser -> canaima-web-gnome
+ Esto es un paquete transicional para que los usuarios puedan
+ actualizar de epiphany-browser a canaima-web-gnome sin muchos
+ problemas. Puede ser removido.
+
+Package: epiphany-browser-data
+Architecture: all
+Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete transicional epiphany-browser-data -> canaima-web-gnome
+ Esto es un paquete transicional para que los usuarios puedan
+ actualizar de epiphany-browser-data a canaima-web-gnome sin muchos
  problemas. Puede ser removido.
 
