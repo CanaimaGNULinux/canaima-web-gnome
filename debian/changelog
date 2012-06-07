@@ -1,3 +1,9 @@
+canaima-web-gnome (3.1-13) stable; urgency=low
+
+  * [c1e35cc] Eliminando Paquete totem-mozilla (Ticket #359)
+
+ -- William Abrahan Cabrera Reyes <cabrerawilliam@gmail.com>  Thu, 07 Jun 2012 11:07:40 -0430
+
 canaima-web-gnome (3.1-12) stable; urgency=low
 
   * [5cc005c] Agregando paquetes transicionales para facilitar la
