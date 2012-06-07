@@ -11,7 +11,7 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/mast
 
 Package: canaima-web-gnome
 Architecture: all
-Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, turpial, totem-mozilla, ${shlibs:Depends}, ${misc:Depends}
+Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, turpial, ${shlibs:Depends}, ${misc:Depends}
 Conflicts: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
 Replaces: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
 Provides: evolution, evolution-common, epiphany-browser, epiphany-browser-data, canaima-web
