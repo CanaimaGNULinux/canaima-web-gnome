@@ -1,4 +1,4 @@
-canaima-web-gnome (3.1-13) stable; urgency=low
+canaima-web-gnome (3.2-13) stable; urgency=low
 
   * [c1e35cc] Eliminando Paquete totem-mozilla (Ticket #359)
 
