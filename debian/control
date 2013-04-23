@@ -1,60 +1,22 @@
 Source: canaima-web-gnome
 Section: misc
 Priority: optional
-Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
-Uploaders: Carlos Espinoza <carlosarmikhael@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~)
-Standards-Version: 3.9.1
+Maintainer: Carlos Adrián Espinoza Fermín <carlosarmikhael@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-web-gnome.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/master
 
 Package: canaima-web-gnome
 Architecture: all
-Depends: cunaguaro, cunaguaro-l10n-es-es, guacharo, guacharo-l10n-es-es, turpial, totem-mozilla, browser-plugin-libreoffice, canaima-webapps, ${shlibs:Depends}, ${misc:Depends}
-Conflicts: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
-Replaces: evolution (<< 3), evolution-common (<< 3), epiphany-browser (<< 3), epiphany-browser-data (<< 3), canaima-web (<< 3.1)
-Provides: evolution, evolution-common, epiphany-browser, epiphany-browser-data, canaima-web
+Depends:	canaima-webapps,
+		cunaguaro,
+		guacharo,
+		turpial,
+		totem-mozilla,
+		browser-plugin-libreoffice,
+		${shlibs:Depends},
+		${misc:Depends}
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
-
-Package: canaima-web
-Architecture: all
-Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional canaima-web -> canaima-web-gnome
- Esto es un paquete transicional para que los usuarios puedan
- actualizar de canaima-web a canaima-web-gnome sin muchos
- problemas. Puede ser removido.
-
-Package: evolution
-Architecture: all
-Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional evolution -> canaima-web-gnome
- Esto es un paquete transicional para que los usuarios puedan
- actualizar de evolution a canaima-web-gnome sin muchos
- problemas. Puede ser removido.
-
-Package: evolution-common
-Architecture: all
-Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional evolution-common -> canaima-web-gnome
- Esto es un paquete transicional para que los usuarios puedan
- actualizar de evolution-common a canaima-web-gnome sin muchos
- problemas. Puede ser removido.
-
-Package: epiphany-browser
-Architecture: all
-Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional epiphany-browser -> canaima-web-gnome
- Esto es un paquete transicional para que los usuarios puedan
- actualizar de epiphany-browser a canaima-web-gnome sin muchos
- problemas. Puede ser removido.
-
-Package: epiphany-browser-data
-Architecture: all
-Depends: canaima-web-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional epiphany-browser-data -> canaima-web-gnome
- Esto es un paquete transicional para que los usuarios puedan
- actualizar de epiphany-browser-data a canaima-web-gnome sin muchos
- problemas. Puede ser removido.
-
