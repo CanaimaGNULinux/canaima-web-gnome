@@ -1,10 +1,17 @@
 canaima-web-gnome (4.0) stable; urgency=low
 
+  [ Carlos Espinoza ]
   * [e1ff741] Agregando dos dependencias nuevas al control
+
+  [ Luis Alejandro Martínez Faneyth ]
   * [5879ddb] Removiendo paquetes trancisionales. Cambiando formato de paquete fuente.
   * [bd89b46] Update changelog for 4.0~1.gbp5879dd release
+  * [35f841e] Update changelog for 4.0 release
 
- -- Carlos Adrián Espinoza Fermín <carlosarmikhael@gmail.com>  Tue, 23 Apr 2013 12:04:11 -0430
+  [ Erick Birbe ]
+  * [4597384] Eliminando opción de compresión en xz
+
+ -- Erick Birbe <erickcion@gmail.com>  Tue, 23 Apr 2013 16:12:02 -0430
 
 canaima-web-gnome (3.2-13) stable; urgency=low
 
