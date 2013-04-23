@@ -1,14 +1,10 @@
-canaima-web-gnome (4.0~1.gbp5879dd) UNRELEASED; urgency=low
+canaima-web-gnome (4.0) stable; urgency=low
 
-  ** SNAPSHOT build @5879ddb0c03e0118eb1671193e789e31d90a5b6b **
-
-  [ Carlos Espinoza ]
   * [e1ff741] Agregando dos dependencias nuevas al control
-
-  [ Luis Alejandro Martínez Faneyth ]
   * [5879ddb] Removiendo paquetes trancisionales. Cambiando formato de paquete fuente.
+  * [bd89b46] Update changelog for 4.0~1.gbp5879dd release
 
- -- Carlos Espinoza <carlosarmikhael@gmail.com>  Tue, 23 Apr 2013 12:03:53 -0430
+ -- Carlos Adrián Espinoza Fermín <carlosarmikhael@gmail.com>  Tue, 23 Apr 2013 12:04:11 -0430
 
 canaima-web-gnome (3.2-13) stable; urgency=low
 
