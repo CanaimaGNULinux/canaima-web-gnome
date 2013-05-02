@@ -14,8 +14,6 @@ Depends:	canaima-webapps,
 		cunaguaro,
 		guacharo,
 		turpial,
-		totem-mozilla,
-		browser-plugin-libreoffice,
 		${shlibs:Depends},
 		${misc:Depends}
 Description: Aplicaciones web para Canaima GNU/Linux
