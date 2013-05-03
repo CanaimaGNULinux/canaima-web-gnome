@@ -14,7 +14,10 @@ Depends:	canaima-webapps,
 		cunaguaro,
 		guacharo,
 		turpial,
-		${shlibs:Depends},
+		empathy,
+		telepathy-gabble,
+		telepathy-rakia,
+		telepathy-salut,
 		${misc:Depends}
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
