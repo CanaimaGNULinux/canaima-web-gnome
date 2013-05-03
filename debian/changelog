@@ -1,3 +1,14 @@
+canaima-web-gnome (4.0+1) stable; urgency=low
+
+  [ Erick Birbe ]
+  * [4597384] Eliminando opción de compresión en xz
+  * [a73ae5c] Update changelog for 4.0 release
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [be8e585] Ajustando las dependencias para la primera alpha de Canaima 4.0.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Fri, 03 May 2013 15:20:12 -0430
+
 canaima-web-gnome (4.0) stable; urgency=low
 
   [ Carlos Espinoza ]
