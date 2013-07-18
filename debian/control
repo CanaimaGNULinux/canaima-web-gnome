@@ -13,7 +13,6 @@ Architecture: all
 Depends:	canaima-webapps,
 		cunaguaro,
 		guacharo,
-		turpial,
 		empathy,
 		telepathy-gabble,
 		telepathy-rakia,
