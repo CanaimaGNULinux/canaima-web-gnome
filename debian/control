@@ -17,6 +17,7 @@ Depends:	canaima-webapps,
 		telepathy-gabble,
 		telepathy-rakia,
 		telepathy-salut,
+		telepathy-idle,
 		${misc:Depends}
 Description: Aplicaciones web para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones web para Canaima GNU/Linux.
