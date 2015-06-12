@@ -1,7 +1,7 @@
 Source: canaima-web-gnome
 Section: misc
 Priority: optional
-Maintainer: Carlos Adrián Espinoza Fermín <carlosarmikhael@gmail.com>
+Maintainer: Delia Araque <delia.araque11@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/
@@ -11,8 +11,8 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-web-gnome/trees/mast
 Package: canaima-web-gnome
 Architecture: all
 Depends:	canaima-webapps,
-		cunaguaro,
-		guacharo,
+		iceweasel,
+		icedove,
 		empathy,
 		telepathy-gabble,
 		telepathy-rakia,
