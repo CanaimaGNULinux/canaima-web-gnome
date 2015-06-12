@@ -1,3 +1,9 @@
+canaima-web-gnome (5.0) stable; urgency=medium
+
+  * [a564cf8] modificando mantenedor y dependencias
+
+ -- Delia Araque <delia.araque11@gmail.com>  Fri, 12 Jun 2015 14:21:33 -0430
+
 canaima-web-gnome (4.0+3) stable; urgency=low
 
   * [18e6804] Agregando dependencia telepathy-idle
